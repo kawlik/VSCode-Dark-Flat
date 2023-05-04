@@ -1,21 +1,37 @@
 {
-  "name": "vscodedarkflat",
-  "displayName": "VSCodeDarkFlat",
-  "description": "A flat version of the default (Dark+) VSCode theme.",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.78.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "VSCodeDarkFlat",
-        "uiTheme": "vs-dark",
-        "path": "./themes/VSCodeDarkFlat-color-theme.json"
-      }
-    ]
-  }
+	"name": "vscodedarkflat",
+	"displayName": "VSCode Dark Flat",
+	"description": "A flat version of the default (Dark+) VSCode theme.",
+	"publisher": "kawlik",
+	"version": "0.1.0",
+	"author": {
+		"name": "Kamil Pawlik",
+		"email": "kpawlik1103@gmail.com",
+		"url": "https://github.com/kawlik"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "VSCode Dark Flat",
+				"uiTheme": "vs-dark",
+				"path": "./themes/VSCodeDarkFlat-color-theme.json"
+			}
+		]
+	},
+	"devDependencies": {
+		"prettier": "2.8.8"
+	},
+	"engines": {
+		"vscode": "^1.78.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kawlik/"
+	},
+	"scripts": {
+		"lint": "prettier --write ."
+	}
 }
