@@ -1,0 +1,21 @@
+{
+  "name": "vscodedarkflat",
+  "displayName": "VSCodeDarkFlat",
+  "description": "A flat version of the default (Dark+) VSCode theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "VSCodeDarkFlat",
+        "uiTheme": "vs-dark",
+        "path": "./themes/VSCodeDarkFlat-color-theme.json"
+      }
+    ]
+  }
+}
