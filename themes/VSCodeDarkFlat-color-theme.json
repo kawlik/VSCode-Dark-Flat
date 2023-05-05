@@ -32,7 +32,7 @@
 
 		// badges
 		"activityBarBadge.background": "#007ACC",
-		"activityBarBadge.foreground": "#1E1E1E",
+		"activityBarBadge.foreground": "#EEFFFF",
 
 		/*  breadcumb
         /*   *   *   *   *   *   *   *   *   *   */
@@ -114,7 +114,8 @@
 		// sectionHeader
 		"sideBarSectionHeader.border": "#1E1E1E",
 		"sideBarSectionHeader.background": "#1E1E1E",
-		"sideBarSectionHeader.foreground": "#EEFFFF",
+		"sideBarSectionHeader.foreground": "#CCCCCC",
+		"sideBarTitle.foreground": "#CCCCCC",
 
 		/*  statusBar
         /*   *   *   *   *   *   *   *   *   *   */
