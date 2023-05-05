@@ -4,7 +4,7 @@
 	"displayName": "VSCode Dark Flat",
 	"description": "A flat version of the default (Dark+) VSCode theme.",
 	"publisher": "kawlik",
-	"version": "0.1.2",
+	"version": "0.2.0",
 	"author": {
 		"name": "Kamil Pawlik",
 		"email": "kpawlik1103@gmail.com",
@@ -19,6 +19,11 @@
 				"label": "VSCode Dark Flat",
 				"uiTheme": "vs-dark",
 				"path": "./themes/VSCodeDarkFlat-color-theme.json"
+			},
+            {
+				"label": "VSCode Dark Flat Experimental",
+				"uiTheme": "vs-dark",
+				"path": "./themes/VSCodeDarkFlatExperimental-color-theme.json"
 			}
 		]
 	},
