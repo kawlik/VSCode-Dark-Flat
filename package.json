@@ -1,9 +1,10 @@
 {
 	"name": "vscodedarkflat",
+	"icon": "vscodedarkflat.png",
 	"displayName": "VSCode Dark Flat",
 	"description": "A flat version of the default (Dark+) VSCode theme.",
 	"publisher": "kawlik",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"author": {
 		"name": "Kamil Pawlik",
 		"email": "kpawlik1103@gmail.com",
