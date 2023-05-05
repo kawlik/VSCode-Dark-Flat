@@ -3,7 +3,7 @@
 	"displayName": "VSCode Dark Flat",
 	"description": "A flat version of the default (Dark+) VSCode theme.",
 	"publisher": "kawlik",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"author": {
 		"name": "Kamil Pawlik",
 		"email": "kpawlik1103@gmail.com",
@@ -25,7 +25,7 @@
 		"prettier": "2.8.8"
 	},
 	"engines": {
-		"vscode": "^1.78.0"
+		"vscode": "^1.0.0"
 	},
 	"repository": {
 		"type": "git",

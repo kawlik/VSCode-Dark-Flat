@@ -28,18 +28,18 @@
 		"activityBar.border": "#1E1E1E",
 		"activityBar.background": "#1E1E1E",
 		"activityBar.foreground": "#EEFFFF",
+		"activityBar.inactiveForeground": "#CCCCCC",
 
 		// badges
 		"activityBarBadge.background": "#007ACC",
 		"activityBarBadge.foreground": "#1E1E1E",
-		"activityBar.inactiveForeground": "#EEFFFF80",
 
 		/*  breadcumb
         /*   *   *   *   *   *   *   *   *   *   */
 
 		// @base
 		"breadcrumb.background": "#1E1E1E",
-		"breadcrumb.foreground": "#EEFFFF80",
+		"breadcrumb.foreground": "#CCCCCC",
 		"breadcrumb.focusForeground": "#EEFFFF",
 
 		/*  editor
@@ -72,7 +72,7 @@
 		"list.activeSelectionBackground": "#3A3D41",
 		"list.activeSelectionForeground": "#EEFFFF",
 		"list.inactiveSelectionBackground": "#3A3D41",
-		"list.inactiveSelectionForeground": "#EEFFFF80",
+		"list.inactiveSelectionForeground": "#CCCCCC",
 
 		// @feedback
 		"list.hoverBackground": "#3A3D41",
@@ -108,7 +108,7 @@
 
 		// @base
 		"sideBar.background": "#1E1E1E",
-		"sideBar.foreground": "#EEFFFF80",
+		"sideBar.foreground": "#CCCCCC",
 		"sideBar.border": "#1E1E1E",
 
 		// sectionHeader
@@ -122,7 +122,7 @@
 		// @base
 		"statusBar.border": "#1E1E1E",
 		"statusBar.background": "#1E1E1E",
-		"statusBar.foreground": "#EEFFFF",
+		"statusBar.foreground": "#CCCCCC",
 		"statusBar.focusBorder": "#1E1E1E",
 		"statusBar.noFolderBackground": "#1E1E1E",
 
